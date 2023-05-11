@@ -2,3 +2,4 @@
 This is git-skills.
 Creating a new branch is quick and simple.
 Git is powerful.
+Test bugfix branch.
